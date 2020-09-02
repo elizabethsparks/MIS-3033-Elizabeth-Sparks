@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesFilesDateTime", "ClassesFilesDateTime\ClassesFilesDateTime.csproj", "{F7AE2950-4322-4196-8634-836F11E96F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesFilesDateTime", "ClassesFilesDateTime\ClassesFilesDateTime.csproj", "{F7AE2950-4322-4196-8634-836F11E96F57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesExample", "FilesExample\FilesExample.csproj", "{8781B5A7-1AAF-4DCB-AF67-5D3D1FF7FAD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilesExample", "FilesExample\FilesExample.csproj", "{8781B5A7-1AAF-4DCB-AF67-5D3D1FF7FAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentUMLExample", "StudentUMLExample\StudentUMLExample.csproj", "{8915D715-5B37-4CEB-A6B1-42AA5DDF3A9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8781B5A7-1AAF-4DCB-AF67-5D3D1FF7FAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8781B5A7-1AAF-4DCB-AF67-5D3D1FF7FAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8781B5A7-1AAF-4DCB-AF67-5D3D1FF7FAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8915D715-5B37-4CEB-A6B1-42AA5DDF3A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8915D715-5B37-4CEB-A6B1-42AA5DDF3A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8915D715-5B37-4CEB-A6B1-42AA5DDF3A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8915D715-5B37-4CEB-A6B1-42AA5DDF3A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
